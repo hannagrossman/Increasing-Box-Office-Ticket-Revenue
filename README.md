@@ -5,5 +5,5 @@ I completed this project as a part of a Statistics for Data Science course (W203
 **Files:**  
 **Report:** Increasing-Box-Office-Ticket-Revenue-Report.pdf  
 **R Code:** Increasing Box Office Ticket Revenue Report.Rmd 
-**Presentation:** Increasing Box Office Ticket Revenue Presentation.pptx
+**Presentation:** Increasing Box Office Ticket Revenue Presentation.pptx  
 **Data:** data  
